@@ -1,0 +1,8 @@
+{
+  "name": "eMAG to Pinterest Bot",
+  "description": "Automate generating Pinterest pins from eMAG & affiliate products with Gemini AI descriptions and publishing directly to Pinterest boards.",
+  "permissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
